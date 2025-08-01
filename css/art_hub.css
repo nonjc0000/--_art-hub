@@ -1,0 +1,31 @@
+@charset "UTF-8";
+@import url('./reset.css');
+
+:root{
+    /*  品牌識別色 */
+    --accent: #ED972E;
+    --background: #FDF7EB;
+    --primary: #BEC7B4;
+    --secondary: #DEBFA0;
+    --text: #39413A;
+    --dark: #413B35;
+
+    /* 圓角定義 */
+    --radius: 30px;
+    --exRadius: 999px;
+}
+
+/* 共用區 */
+
+/* 頁首區 */
+
+#topbar .logo{
+    width: 40px;
+}
+
+#topbar .navgation .menu{
+    
+}
+/* 內容區 */
+
+/* 頁尾區 */
